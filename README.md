@@ -7,8 +7,6 @@ I am a full stack developer. I specialize in complex algorithms in JS.
 I am developing chat bots for telegrams and discord.
 I create websites with graphs, tables, diagrams.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVN4)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hard Skils
 
 **JavaScript:** Development of complex algorithms; Generate text or DOM tree from data in any form; Creating an API and working with it; Creating and working with recursive and asynchronous functions, as well as with classes; Backend development with Node.js; jQuery; In the process of learning Vue.js.
@@ -41,3 +39,7 @@ I create websites with graphs, tables, diagrams.
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ruskotwo)
 [![Discord](https://img.shields.io/badge/-Discord-161b22?style=for-the-badge&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/256114365894230018)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVN4)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BVN4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
