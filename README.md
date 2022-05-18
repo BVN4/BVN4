@@ -40,6 +40,6 @@ I create websites with graphs, tables, diagrams.
 [![Telegram](https://img.shields.io/badge/-Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ruskotwo)
 [![Discord](https://img.shields.io/badge/-Discord-161b22?style=for-the-badge&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/256114365894230018)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVN4)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BVN4&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BVN4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
